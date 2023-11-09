@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       colors: {
         beige: '#DDC3A5',
+        beigeHover:"#DCB991",
         tan: '#E0A96D',
         blackBrown: '#201E20',
       },
